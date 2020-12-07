@@ -1,0 +1,9 @@
+@charset "utf-8";
+.social a img {
+    width: 100px;
+    height: 100px;
+}
+.social a img {
+    color: #EF5DDD;
+    background-color: #FFFFFF;
+}

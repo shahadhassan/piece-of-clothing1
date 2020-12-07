@@ -1,0 +1,55 @@
+@charset "utf-8";
+.container {
+    width: 950px;
+}
+.container .header {
+    width: 950px;
+    background-color: #29B1AC;
+    float: right;
+    text-align: center;
+}
+.container img {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-top: 4px;
+    margin-right: 10px;
+}
+
+.header nav a {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: justify;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: thin solid #E5BD16;
+    float: right;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+.container .header nav {
+    text-align: right;
+    padding-top: 50px;
+    padding-bottom: 59px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.container img {
+    text-align: center;
+    width: 0px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.container h1 {
+    text-align: center;
+    background-repeat: repeat-x;
+    height: 570px;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    clear: both;
+    background-image: url(image/crafting-tools-table%20%D8%A7%D8%AE%D8%B1%20%D9%88%D8%AD%D8%AF%D8%A9.jpg);
+    font-size: 102px;
+    color: #E7567F;
+}
